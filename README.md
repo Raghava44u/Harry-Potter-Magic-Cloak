@@ -45,3 +45,7 @@ Finally, the magic is displayed in all its glory. Your red cloak melts into the 
 Don’t worry if it doesn’t work perfectly every time—hey, even Harry Potter had some moments where the cloak didn’t work as expected. And hey, why stop at red? Maybe you’ll get curious and try other colors next. Who knows what magical color you’ll discover?
 
 So, go ahead, test it out, and have fun turning into a real-life wizard. You’ve got the magic in you!
+
+
+
+**Thank You !**
