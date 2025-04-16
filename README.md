@@ -5,7 +5,7 @@
 -**Webcam (The Eye of the Spell)**: This is your live camera, watching everything in real time.
 -**Background Image (The Invisible World)**: Your background image that replaces your body once the magic happens.
 -**HSV Color Detection (The Wizard’s Eye)**: This is how the computer knows to look for red—kind of like giving it a map of the color you want to disappear into.
--**Skin Masking (Face Guarding Spell)**: Stops your face from going invisible, because we all know we need to see where we’re going. 😉
+-**Skin Masking (Face Guarding Spell)**: Stops your face from going invisible, because we all know we need to see where we’re going. 
 -*Morphological Magic (Edge Smoothing Charm)**: Cleans up any messy cloak edges to make everything look super smooth. No one likes jagged edges on a cloak, right?
 -*Bitwise Magic (The Combining Spell)**: The secret sauce that lets the background and the cloak blend together. It’s the final touch to make everything seamless.
 
