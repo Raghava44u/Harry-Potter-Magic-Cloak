@@ -1,7 +1,7 @@
 import cv2
 
 cap = cv2.VideoCapture(0)
-print("📷 Stand aside — capturing background. Press 'q' when ready.")
+print("Stand aside — capturing background. Press 'q' when ready.")
 
 while True:
     ret, frame = cap.read()
