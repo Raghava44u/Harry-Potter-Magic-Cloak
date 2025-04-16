@@ -23,14 +23,14 @@ Now, you load up your background image (think your favorite place — maybe you�
 You put on a red cloak (or any red cloth). The computer detects the color red. It's like the computer has a magical eye that can spot that exact red shade.  The program is on the lookout for that color so it can make you disappear.
 
 **4: Face? No, Thanks!**  
-We don’t want the magic to make your face disappear (no one’s ready for that just yet, right?). So, the program uses a special "skin filter" to ignore your face and focus on the cloak instead. It’s like your personal invisibility shield protecting your identity. 🛡️
+We don’t want the magic to make your face disappear (no one’s ready for that just yet, right?). So, the program uses a special "skin filter" to ignore your face and focus on the cloak instead. It’s like your personal invisibility shield protecting your identity.
 
 **5: Clean Up Time**  
 But wait—no one likes rough edges. The computer smooths out the detection by cleaning up the messy parts of the cloak (like fixing up a spell gone wrong). This makes the magic a lot smoother. 
 
 **6: The Magic Trick**  
 Here’s where the real magic happens: the red cloak blends into the background! It’s like a real invisibility cloak—your body becomes invisible, and all that’s left is the background showing through. **Poof!** You’re hidden, but still there. How cool is that?
-**Step 7: The Grand Finale **  
+**7: The Grand Finale**  
 Finally, the magic is displayed in all its glory. Your red cloak melts into the background, and your body goes invisible, all in real-time. It’s like you’re performing live magic!
 
 ### When Can You Use It?
