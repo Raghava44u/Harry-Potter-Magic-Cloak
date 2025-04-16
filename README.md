@@ -13,11 +13,14 @@ make sure :
 pip install -r requirements.txt
 
 
+
 **1: Webcam Setup**  
+Take a current background pic and name it as image.jpg
+
 First, you turn on your webcam. It's like opening the door to a magical world, where your computer starts seeing what’s around you. We’re about to get a sneak peek at some wizard-level trickery.
 
 **2: The Cloak Appears**  
-Now, you load up your background image (think your favorite place — maybe you’re chilling in Hogwarts?). The background resizes to match your webcam view. It’s like setting up your magic scene. A perfect stage for your invisible cloak to shine.
+Now, you load up your background image (think your favorite place — maybe you’re chilling in Home/Collage Hostals right?). The background resizes to match your webcam view. It’s like setting up your magic scene. A perfect stage for your invisible cloak to shine.
 
 **3: The Red Cloak Spell**  
 You put on a red cloak (or any red cloth). The computer detects the color red. It's like the computer has a magical eye that can spot that exact red shade.  The program is on the lookout for that color so it can make you disappear.
